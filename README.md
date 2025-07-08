@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Devops Project**
 
-- 📫 How to reach me **smalvade22@gmail.com**
-
 - ⚡ Fun fact **I love to writes quotes and stories**
   
 ## 🌐 Socials:
