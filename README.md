@@ -43,19 +43,19 @@
 
 # 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saamrajepatil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saamrajepatil&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=sayujjatamalvade&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayujjatamalvade&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saamrajepatil&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayujjatamalvade&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
 </div>
 
 ---
 
 ## 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saamrajepatil&theme=tokyo-night&hide_border=true" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayujjatamalvade&theme=tokyo-night&hide_border=true" alt="Activity Graph">
 </div>
 
 
