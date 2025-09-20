@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 DevOps Engineer | 🚀 On a Journey to Master DevOps<br>🌐 Passionate about Cloud, Automation, and Open Source<br>🛠️ Exploring the DevOps ecosystem and contributing to real-world projects<br>📝 I also enjoy expressing myself through writing — whether it’s thought-provoking quotes or engaging short stories.
+👨‍💻 DevOps Engineer <br>🌐 Passionate about Cloud, Automation, and Open Source<br>🛠️ Exploring the DevOps ecosystem and contributing to real-world projects<br>📝 I also enjoy expressing myself through writing — whether it’s thought-provoking quotes or engaging short stories.
 
 
 ## 🌐 Socials:
