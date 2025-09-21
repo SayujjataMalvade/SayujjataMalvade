@@ -1,14 +1,12 @@
 # 💫 About Me
-👨‍💻 DevOps Engineer  
-🌐 Passionate about Cloud, Automation, and Open Source  
-🛠️ Exploring the DevOps ecosystem and contributing to real-world projects  
-📝 I also enjoy expressing myself through writing — whether it’s thought-provoking quotes or engaging short stories  
 
----
+<div align="center">
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayujjata-malvade-392ab1211/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smalvade22@gmail.com)  
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color=3AF926&random=false&width=550&lines=Hello+Visionaries!;I'm+Sayujjata+Malvade;DevOps+Engineer+💻;Cloud+☁️+Automation+⚡+Open+Source+🌍;Writer+of+Quotes+%26+Stories+📝)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
@@ -61,6 +59,14 @@
 
 
 ---
+## 🌐 Connect With Me
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayujjata-malvade-392ab1211/)  
+[![Email](https://img.shields.io/badge/Email-smalvade22-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smalvade22@gmail.com)
+
+</div>
+
 
 ## 📌 Pinned Repositories
 - **[Microservice](https://github.com/SayujjataMalvade/Microservice)** – Example microservice project demonstrating DevOps best practices.  
@@ -70,7 +76,6 @@
 
 ---
 
-## 📅 Contribution Calendar
-![GitHub Contribution Calendar](https://github.com/SayujjataMalvade.png?tab=overview&from=2024-09-01&to=2025-09-20)  
+
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
