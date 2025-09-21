@@ -40,7 +40,6 @@
 ### **Linux & Automation**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" alt="redhat" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/console.png" alt="shell scripting" width="40" height="40"/>
 </p>
 
