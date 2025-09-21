@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color=3AF926&random=false&width=550&lines=Hello+Visionaries!;I'm+Sayujjata+Malvade;DevOps+Engineer+💻;Cloud+☁️+Automation+⚡+Open+Source+🌍;Writer+of+Quotes+%26+Stories+📝)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color2E9EF7=&random=false&width=550&lines=Hello+Visionaries!;I'm+Sayujjata+Malvade;DevOps+Engineer+💻;Cloud+☁️+Automation+⚡+Open+Source+🌍;Writer+of+Quotes+%26+Stories+📝)](https://git.io/typing-svg)
 
 </div>
 
@@ -67,6 +67,8 @@
 
 </div>
 
+
+Thanks for visiting, and happy coding! 😄
 
 ## 📌 Pinned Repositories
 - **[Microservice](https://github.com/SayujjataMalvade/Microservice)** – Example microservice project demonstrating DevOps best practices.  
